@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hello! My name is Limpho Moloi. I am passionate about learning new technologies and improving my understanding of software development and collaboration tools like Git and GitHub. I enjoy exploring how technology can solve real-world problems and make life easier for people.
+
+Over the next year, I aim to strengthen my programming skills, build personal projects, and gain more experience working with teams on collaborative platforms. This GitHub journey marks the beginning of my growth as a confident and capable developer.
